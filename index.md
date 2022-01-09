@@ -1,7 +1,3 @@
-<!-----
-header-includes:
-  - \hypersetup{colorlinks=true}
------>
 
 # Data Privacy (Spring 2022)
 
