@@ -7,9 +7,11 @@ How can we learn from data collected from individuals while ensuring their priva
 - Instructor: [Tianhao Wang](https://tianhao.wang)
 - Location: Rice 021
 - Time: Monday and Wednesday 2:00PM - 3:15PM
-- Office Hour: Monday and Wednesday 3:15PM - 4:00PM and by appointment
 - TA: [Dung Nguyen](https://biocomplexity.virginia.edu/person/dung-nguyen)
 - Discussion: [Piazza](piazza.com/virginia/spring2022/cs6501)
+- Office Hour
+  - Tianhao: Friday 2:00PM - 3:00PM at [Zoom](https://virginia.zoom.us/j/96963550187?pwd=cld0MWdIcExlQVJXejVHdHZGOEIxQT09) and by appointment
+  - Dung: ?
 
 ## Format:
 - There are no exams.
@@ -20,10 +22,11 @@ How can we learn from data collected from individuals while ensuring their priva
 
 
 ## Grading: 
-- Paper presentation (20%): During the semester, each student will present a paper for 35 minutes (30min presentation plus 5min q&a).  If the slides are public or there are videos available online, it is okay to reuse the slides, but make sure you make a high-quality presentation.  Candidate papers are listed [here](papers.md).  Students can also suggest papers.  Click [here]() to register.
-- Paper review (4 * 5% = 20%): Each student is required to write four paper reviews for papers presented in the course.  Click [here]() to register.  Submit your paper reviews at: https://uva-privacycourse22.hotcrp.com/. Please read this [guideline](review.md) before you write a review.  
+- Paper presentation (20%): During the semester, each student will present a paper for 35 minutes (30min presentation plus 5min q&a).  If the slides are public or there are videos available online, it is okay to reuse the slides, but make sure you make a high-quality presentation.  Click [here]() to register.
+- Paper review (4 * 5% = 20%): Each student is required to write four paper reviews for papers presented in the course.  Click [here]() to register.  Submit your paper reviews at: [hotcrp](https://uva-privacycourse22.hotcrp.com/). Please read this [guideline](review.md) before you write a review.  
 - Participation (10%): Students are expected to ask/answer questions during the presentation.
-- Project (solo or a group of 2: 50%): Click [here]() to register your team with a tentative title.  The final project report should target a top-tier venue and will be graded based on intelectual merit.  Each team is required to submit a mid-term progress report and a final report, but the mid-term progress report is only used for keep tracking of progress and get feedbacks.  Submit both at: https://uva-privacycourse22-project.hotcrp.com/.  If desired, teams can utilize office hours to get feedbacks on the project.  
+- Two assignments (10%) for theory (proofs) and practice (programming)
+- Project (solo or a group of 2: 40%): Click [here]() to register your team with a tentative title.  The final project report should target a top-tier venue and will be graded based on intelectual merit.  Each team is required to submit a mid-term progress report and a final report, but the mid-term progress report is only used for keep tracking of progress and get feedbacks.  Submit both at [hotcrp](https://uva-privacycourse22-project.hotcrp.com/).  If desired, teams can utilize office hours to get feedbacks on the project.  
 
 ## Schedule (tentative, subject to change)
 - Privacy attacks (1 lectures)
@@ -32,12 +35,12 @@ How can we learn from data collected from individuals while ensuring their priva
 - Paper presentations
 
 
-| Week      | Monday | Wednesday     |
-| :---        |    :----:   |          :----: |
-| 1 (Jan 17 - Jan 21)     | No Class       | Introduction, Reconstruction Attack    |
-| 2 (Jan 24 - Jan 28)  | Machine Learning Privacy: Membership Inference, Model Inversion, Backdoor Property Inference       |   Differential Privacy, Laplace mechanism    |
+| Week &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       | Monday | Wednesday     |
+| :------        |    :----:   |          :----: |
+| 1 (Jan 17 - Jan 21)     | No Class       | Introduction, Machine Learning Privacy|
+| 2 (Jan 24 - Jan 28)  | Guest Lecture: Machine Learning meets Security and Privacy: Opportunities and Challenges (by [Jinyuan Jia](https://jjy1994.github.io/))      |   Differential Privacy, Laplace mechanism    |
 | 3 (Jan 31 - Feb 4)  |  Exponential mechanism, Report-noisy-max, Sparse vector technique (SVT)       |   Local Differential Privacy    |
-| 4 (Feb 7 - Feb 11)  |  Shuffler model of Differential Privacy       |    Crypto-assisted Differential Privacy   |  Attack and k-anonymity 
+| 4 (Feb 7 - Feb 11)  |  Shuffler model of Differential Privacy       |    Crypto-assisted Differential Privacy   |   
 | 5 (Feb 14 - Feb 18)  |          |      |
 | 6 (Feb 21 - Feb 25)  | **(Project Proposal Due)**        |       |
 | 7 (Feb 28 - Mar 4)  |         |       |
