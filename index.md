@@ -5,10 +5,10 @@ How can we learn from data collected from individuals while ensuring their priva
 
 
 - Instructor: [Tianhao Wang](https://tianhao.wang)
-- Location: Rice 021
+- Location: Rice 032
 - Time: Monday and Wednesday 2:00PM - 3:15PM
 - TA: [Dung Nguyen](https://biocomplexity.virginia.edu/person/dung-nguyen)
-- Discussion: [Piazza](piazza.com/virginia/spring2022/cs6501)
+- Discussion: [Piazza](https://piazza.com/virginia/spring2022/cs6501)
 - Office Hour
   - Tianhao: Friday 2:00PM - 3:00PM at [Zoom](https://virginia.zoom.us/j/96963550187?pwd=cld0MWdIcExlQVJXejVHdHZGOEIxQT09) and by appointment
   - Dung: Thursday 11AM-1PM [Zoom](https://virginia.zoom.us/j/9125586391) and by appointment
