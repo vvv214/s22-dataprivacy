@@ -19,18 +19,21 @@ Privacy
 1. [Local Model Poisoning Attacks to Byzantine-Robust Federated Learning](https://www.usenix.org/system/files/sec20summer_fang_prepub.pdf)
 2. [Adversary Instantiation: Lower Bounds for Differentially Private Machine Learning](https://arxiv.org/pdf/2101.04535.pdf)
 
-Theory
+DP Theory
 
 1. [Renyi Differential Privacy](https://arxiv.org/pdf/1702.07476.pdf)
 1. [Numerical Composition of Differential Privacy](https://arxiv.org/pdf/2106.02848.pdf)
+2. [Differentially Private Combinatorial Optimization](https://epubs.siam.org/doi/pdf/10.1137/1.9781611973075.90)
 
-DP for ML:
+DP for ML
 
 1. [Scalable Private Learning With PATE](https://arxiv.org/pdf/1802.08908.pdf)
-1. 
 1. [DPNAS: Neural Architecture Search for Deep Learning with Differential Privacy](https://arxiv.org/pdf/2110.08557.pdf)
 1. [Hyperparameter Tuning with Renyi Differential Privacy](https://arxiv.org/pdf/2110.03620.pdf)
+2. [Benchmarking Differential Privacy and Federated Learning for BERT Models](https://arxiv.org/pdf/2106.13973.pdf)
 
-DP and Cryptography:
+DP and Cryptography
+1. 
 
-DP and Systems:
+DP and Systems
+1. [Veil: Private Browsing Semantics Without Browser-side Assistance](https://frankwang.org/files/papers/wang-veil.pdf)

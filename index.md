@@ -11,7 +11,7 @@ How can we learn from data collected from individuals while ensuring their priva
 - Discussion: [Piazza](piazza.com/virginia/spring2022/cs6501)
 - Office Hour
   - Tianhao: Friday 2:00PM - 3:00PM at [Zoom](https://virginia.zoom.us/j/96963550187?pwd=cld0MWdIcExlQVJXejVHdHZGOEIxQT09) and by appointment
-  - Dung: ?
+  - Dung: Thursday 11AM-1PM [Zoom](https://virginia.zoom.us/j/9125586391) and by appointment
 
 ## Format:
 - There are no exams.
@@ -22,38 +22,38 @@ How can we learn from data collected from individuals while ensuring their priva
 
 
 ## Grading: 
-- Paper presentation (20%): During the semester, each student will present a paper for 35 minutes (30min presentation plus 5min q&a).  If the slides are public or there are videos available online, it is okay to reuse the slides, but make sure you make a high-quality presentation.  Click [here]() to register.
-- Paper review (4 * 5% = 20%): Each student is required to write four paper reviews for papers presented in the course.  Click [here]() to register.  Submit your paper reviews at: [hotcrp](https://uva-privacycourse22.hotcrp.com/). Please read this [guideline](review.md) before you write a review.  
+- Paper presentation (20%): During the semester, each student will present a paper for 35 minutes (30min presentation plus 5min q&a).  If the slides are public or there are videos available online, it is okay to reuse the slides, but make sure you make a high-quality presentation.  Click [here](https://docs.google.com/spreadsheets/d/1GPbWKpnKutALnCCEBFBn1HyshOLH8oInoGSfOl7_p9M/edit?usp=sharing) to register.
+- Paper review (4 * 5% = 20%): Each student is required to write four paper reviews for papers presented in the course.  Click [here](https://docs.google.com/spreadsheets/d/1GPbWKpnKutALnCCEBFBn1HyshOLH8oInoGSfOl7_p9M/edit?usp=sharing) to register.  Submit your paper reviews at: [hotcrp](https://uva-privacycourse22.hotcrp.com/). Please read this [guideline](review.md) before you write a review.  
 - Participation (10%): Students are expected to ask/answer questions during the presentation.
 - Two assignments (10%) for theory (proofs) and practice (programming)
-- Project (solo or a group of 2: 40%): Click [here]() to register your team with a tentative title.  The final project report should target a top-tier venue and will be graded based on intelectual merit.  Each team is required to submit a mid-term progress report and a final report, but the mid-term progress report is only used for keep tracking of progress and get feedbacks.  Submit both at [hotcrp](https://uva-privacycourse22-project.hotcrp.com/).  If desired, teams can utilize office hours to get feedbacks on the project.  
+- Project (solo or a group of 2: 40%): Click [here](https://docs.google.com/spreadsheets/d/19W2DKBKuOnUqCAbyxF12cZb0LaURGI93uBb7eGqKe3Y/edit?usp=sharing) to register your team with a tentative title.  The final project report should target a top-tier venue and will be graded based on intelectual merit.  Each team is required to submit a mid-term progress report and a final report, but the mid-term progress report is only used for keep tracking of progress and get feedbacks.  Submit both at [hotcrp](https://uva-privacycourse22-project.hotcrp.com/).  If desired, teams can utilize office hours to get feedbacks on the project.  
 
-## Schedule (tentative, subject to change)
+## Schedule (tentative, subject to change), we will use [Zoom](https://virginia.zoom.us/j/99007718089?pwd=c1d2SXVKMUhXZU1DY3h1ZlpQcnVTUT09) until Feb 4 
 - Privacy attacks (1 lectures)
 - Introduction to differential privacy (2 lectures)
 - Models of differential privacy (3 lectures)
 - Paper presentations
 
 
-| Week &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       | Monday | Wednesday     |
-| :------        |    :----:   |          :----: |
-| 1 (Jan 17 - Jan 21)     | No Class       | Introduction, Machine Learning Privacy|
-| 2 (Jan 24 - Jan 28)  | Guest Lecture: Machine Learning meets Security and Privacy: Opportunities and Challenges (by [Jinyuan Jia](https://jjy1994.github.io/))      |   Differential Privacy, Laplace mechanism    |
-| 3 (Jan 31 - Feb 4)  |  Exponential mechanism, Report-noisy-max, Sparse vector technique (SVT)       |   Local Differential Privacy    |
-| 4 (Feb 7 - Feb 11)  |  Shuffler model of Differential Privacy       |    Crypto-assisted Differential Privacy   |   
-| 5 (Feb 14 - Feb 18)  |          |      |
-| 6 (Feb 21 - Feb 25)  | **(Project Proposal Due)**        |       |
-| 7 (Feb 28 - Mar 4)  |         |       |
-| 8 (Mar 7 - Mar 11)  |  Spring break       |  Spring break     |
-| 9 (Mar 14 - Mar 18)  |         |       |
-| 10 (Mar 21 - Mar 25)  |         |       |
-| 11 (Mar 28 - Apr 1)  | **(Project Progress Report Due)**        |       |
-| 12 (Apr 4 - Apr 8)  |         |       |
-| 13 (Apr 11 - Apr 15)  |         |       |
-| 14 (Apr 18 - Apr 22)  |         |       |
-| 15 (Apr 25 - Apr 29)  |         |       |
-| 16 (May 2 - May 6)  | Last meeting        |       |
-| 17 (May 9 - May 12)  | **(Project Report Due)**        |       |
+|  Week   |        Dates          |                                                                 Monday                                                                  |                Wednesday                |
+| :---: |:--------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------:|
+|  1   | Jan 17 - Jan 21  |                                                                No Class                                                                 | Introduction, Machine Learning Privacy [Zoom](https://virginia.zoom.us/j/99007718089?pwd=c1d2SXVKMUhXZU1DY3h1ZlpQcnVTUT09)  |
+|  2   | Jan 24 - Jan 28  | Guest Lecture: Machine Learning meets Security and Privacy: Opportunities and Challenges (by [Jinyuan Jia](https://jjy1994.github.io/)) [Zoom](https://virginia.zoom.us/j/99007718089?pwd=c1d2SXVKMUhXZU1DY3h1ZlpQcnVTUT09) | Differential Privacy, Laplace mechanism [Zoom](https://virginia.zoom.us/j/99007718089?pwd=c1d2SXVKMUhXZU1DY3h1ZlpQcnVTUT09) |
+|  3   |  Jan 31 - Feb 4  |                                 Exponential mechanism, Report-noisy-max, Sparse vector technique (SVT)  [Zoom](https://virginia.zoom.us/j/99007718089?pwd=c1d2SXVKMUhXZU1DY3h1ZlpQcnVTUT09)                                |       Local Differential Privacy  [Zoom](https://virginia.zoom.us/j/99007718089?pwd=c1d2SXVKMUhXZU1DY3h1ZlpQcnVTUT09)      |
+|  4   |  Feb 7 - Feb 11  |                                                 Multi-party Differential Privacy                                                  | Guest Lecture: [Bargav Jayaraman](https://bargavjayaraman.github.io/)   |
+|  5   | Feb 14 - Feb 18  |     Graphs with Differential Privacy                                                                                                                                     |                                         |
+|  6   | Feb 21 - Feb 25  |                                                       **(Project Proposal Due)**                                                        |                                         |
+|  7   |  Feb 28 - Mar 4  |                                                                                                                                         |                                         |
+|  8   |  Mar 7 - Mar 11  |                                                              Spring break                                                               |              Spring break               |
+|  9   | Mar 14 - Mar 18  |                                                                                                                                         |                                         |
+|  10   | Mar 21 - Mar 25 |                                                                                                                                         |                                         |
+| 11    | Mar 28 - Apr 1  |                                                    **(Project Progress Report Due)**                                                    |                                         |
+| 12    |  Apr 4 - Apr 8  |                                                                                                                                         |                                         |
+|   13  | Apr 11 - Apr 15 |                                                                                                                                         |                                         |
+|      14 |Apr 18 - Apr 22 |                                                                                                                                         |                                         |
+|      15 |Apr 25 - Apr 29 |                                                                                                                                         |                                         |
+|       16 |May 2 - May 6  |                                                              Last meeting                                                               |                                         |
+|      17 |May 9 - May 12  |                                                        **(Project Report Due)**                                                         |                                         |
 
 
 ## More recourses
