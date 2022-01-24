@@ -22,11 +22,11 @@ How can we learn from data collected from individuals while ensuring their priva
 
 
 ## Grading: 
-- Paper presentation (20%): During the semester, each student will present a paper for 35 minutes (30min presentation plus 5min Q&A).  If the slides are public or there are videos available online, it is okay to reuse the slides, but make sure you make a high-quality presentation.  Click [here](https://docs.google.com/spreadsheets/d/1GPbWKpnKutALnCCEBFBn1HyshOLH8oInoGSfOl7_p9M/edit?usp=sharing) to register.
+- [Paper presentation](papers.md) (20%): During the semester, each student will present a paper for 35 minutes (30min presentation plus 5min Q&A).  If the slides are public or there are videos available online, it is okay to reuse the slides, but make sure you make a high-quality presentation.  Click [here](https://docs.google.com/spreadsheets/d/1GPbWKpnKutALnCCEBFBn1HyshOLH8oInoGSfOl7_p9M/edit?usp=sharing) to register.
 - Paper review (4 * 5% = 20%): Each student is required to write four paper reviews for papers presented in the course.  Click [here](https://docs.google.com/spreadsheets/d/1GPbWKpnKutALnCCEBFBn1HyshOLH8oInoGSfOl7_p9M/edit?usp=sharing) to register.  Submit your paper reviews at: [hotcrp](https://uva-privacycourse22.hotcrp.com/). Please read this [guideline](review.md) before you write a review.  
 - Participation (10%): Students are expected to ask/answer questions during the presentation.
 - Two assignments (10%) for theory (proofs) and practice (programming)
-- Project (solo or a group of 2: 40%): Click [here](https://docs.google.com/spreadsheets/d/19W2DKBKuOnUqCAbyxF12cZb0LaURGI93uBb7eGqKe3Y/edit?usp=sharing) to register your team with a tentative title.  The final project report should target a top-tier venue and will be graded based on intelectual merit.  Each team is required to submit a mid-term progress report and a final report, but the mid-term progress report is only used for keep tracking of progress and get feedbacks.  Submit both at [hotcrp](https://uva-privacycourse22-project.hotcrp.com/).  If desired, teams can utilize office hours to get feedbacks on the project.  
+- [Project](project.md) (solo or a group of 2: 40%): Click [here](https://docs.google.com/spreadsheets/d/19W2DKBKuOnUqCAbyxF12cZb0LaURGI93uBb7eGqKe3Y/edit?usp=sharing) to register your team with a tentative title, and submit your final report at [hotcrp](https://uva-privacycourse22-project.hotcrp.com/).  If desired, teams can utilize office hours to get feedbacks on the project.  
 
 ## Schedule (tentative, subject to change), we will use [Zoom](https://virginia.zoom.us/j/99007718089?pwd=c1d2SXVKMUhXZU1DY3h1ZlpQcnVTUT09) until Feb 4 
 - Privacy attacks (1 lectures)
