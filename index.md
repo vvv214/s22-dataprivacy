@@ -28,10 +28,10 @@ How can we learn from data collected from individuals while ensuring their priva
 - Two assignments (10%) for theory (proofs) and practice (programming)
 - [Project](project.md) (solo or a group of 2: 40%): Click [here](https://docs.google.com/spreadsheets/d/19W2DKBKuOnUqCAbyxF12cZb0LaURGI93uBb7eGqKe3Y/edit?usp=sharing) to register your team with a tentative title, and submit your final report at [hotcrp](https://uva-privacycourse22-project.hotcrp.com/).  If desired, teams can utilize office hours to get feedbacks on the project.  
 
-## Schedule (tentative, subject to change), we will use [Zoom](https://virginia.zoom.us/j/99007718089?pwd=c1d2SXVKMUhXZU1DY3h1ZlpQcnVTUT09) until Feb 4 
-- Privacy attacks (1 lectures)
-- Introduction to differential privacy (2 lectures)
-- Models of differential privacy (3 lectures)
+## Schedule (tentative, subject to change), we will meet both in-person and using [Zoom](https://virginia.zoom.us/j/99007718089?pwd=c1d2SXVKMUhXZU1DY3h1ZlpQcnVTUT09) 
+- Privacy attacks
+- Introduction to differential privacy
+- Models of differential privacy
 - Paper presentations
 
 
@@ -40,8 +40,8 @@ How can we learn from data collected from individuals while ensuring their priva
 |  1   | Jan 17 - Jan 21  |                                                                No Class                                                                 | Introduction, Machine Learning Privacy [Zoom](https://virginia.zoom.us/j/99007718089?pwd=c1d2SXVKMUhXZU1DY3h1ZlpQcnVTUT09)  |
 |  2   | Jan 24 - Jan 28  | Guest Lecture: Machine Learning meets Security and Privacy: Opportunities and Challenges (by [Jinyuan Jia](https://jjy1994.github.io/)) [Zoom](https://virginia.zoom.us/j/99007718089?pwd=c1d2SXVKMUhXZU1DY3h1ZlpQcnVTUT09) | Differential Privacy, Laplace mechanism [Zoom](https://virginia.zoom.us/j/99007718089?pwd=c1d2SXVKMUhXZU1DY3h1ZlpQcnVTUT09) |
 |  3   |  Jan 31 - Feb 4  |                                 Exponential mechanism, Report-noisy-max, Sparse vector technique (SVT)  [Zoom](https://virginia.zoom.us/j/99007718089?pwd=c1d2SXVKMUhXZU1DY3h1ZlpQcnVTUT09)                                |       Local Differential Privacy  [Zoom](https://virginia.zoom.us/j/99007718089?pwd=c1d2SXVKMUhXZU1DY3h1ZlpQcnVTUT09)      |
-|  4   |  Feb 7 - Feb 11  |                                                 Multi-party Differential Privacy                                                  | Guest Lecture: [Bargav Jayaraman](https://bargavjayaraman.github.io/)   |
-|  5   | Feb 14 - Feb 18  |     Graphs with Differential Privacy (by [Dung Nguyen](https://biocomplexity.virginia.edu/person/dung-nguyen))                                                                                                                                   |                                         |
+|  4   |  Feb 7 - Feb 11  |                                                 Local Differential Privacy  [Zoom](https://virginia.zoom.us/j/99007718089?pwd=c1d2SXVKMUhXZU1DY3h1ZlpQcnVTUT09)                                                  | Guest Lecture: [Bargav Jayaraman](https://bargavjayaraman.github.io/)   |
+|  5   | Feb 14 - Feb 18  |     Graphs with Differential Privacy (by [Dung Nguyen](https://biocomplexity.virginia.edu/person/dung-nguyen))                                                                                                                                   |         Guest Lecture: [Varun Chandrasekaran](https://pages.cs.wisc.edu/~chandrasekaran/)                                |
 |  6   | Feb 21 - Feb 25  |                                                       **(Project Proposal Due)**                                                        |                                         |
 |  7   |  Feb 28 - Mar 4  |                                                                                                                                         |                                         |
 |  8   |  Mar 7 - Mar 11  |                                                              Spring break                                                               |              Spring break               |
