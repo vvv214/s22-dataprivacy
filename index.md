@@ -73,7 +73,7 @@ How can we learn from data collected from individuals while ensuring their priva
 - [Differential Privacy: From Theory to Practice](https://www.morganclaypool.com/doi/pdf/10.2200/S00735ED1V01Y201609SPT018)
 - [The Complexity of Differential Privacy](https://privacytools.seas.harvard.edu/files/privacytools/files/complexityprivacy_1_01.pdf)
 - [Differential Privacy: A Primer for a Non-Technical Audience](https://salil.seas.harvard.edu/files/salil/files/differential_privacy_primer_nontechnical_audience.pdf)
-- [Protecting Your Privacy In A Data-driven World](https://www.clairemckaybowen.com/book.html)
+- [Protecting Your Privacy In A Data-driven World](https://www.clairemckaybowen.com/book)
 - [Differential Privacy for Databases](https://dpfordb.github.io/)
 
 
