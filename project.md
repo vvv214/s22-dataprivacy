@@ -8,6 +8,7 @@ The goal of doing a project in this course is to explore data privacy by yoursel
 You are not restricted to follow any format.  Latex or Google doc or anything that can convey the knowledge would suffice.  There are two categories of a project: 
  - research: a research project aims to introduce new ideas
  - evaluation: an evaluation project aims to do a comprehensive evaluation and comparison of a topic, e.g., summarize and evaluate all the existing algorithms (code) for a specific problem
+ - application: applying existing techniques to a new domain/dataset, in a non-trivial way
 
 If you aim to do a research project and you put a lot of effort into, say, organizing and cleaning existing methods that no one ever did before (which is also very important), but you only produce a minor new result, that is probably unfortunate in real research.  But it is fine in this class, as we can evaluate on both sides.  Similarly, if you find new insights during your evaluation, that is also great.  Please mark your contribution from two sides clearly.
 
