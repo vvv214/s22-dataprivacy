@@ -13,6 +13,19 @@ Novelty can manifest in many ways that go beyond the traditional requirement of 
 
 Papers that have not gone through peer-review and are not formally published can be brought up if a reviewer feels it is relevant to inform the authors, but such papers cannot be considered in a way that diminishes the novelty of the submitted work or in order to ask the authors to compare explicitly against them, e.g., with experiments. This includes papers on arXiv and white papers.
 
+#### Review template
+Please follow this structure:
+- Summary
+ - What is the problem setting? Is the problem setting realistic, or contrived (the authors creating a problem)? 
+ - Given the problem, what would be the natural solution? What are existing solutions from the literatur? Have the authors considered and compared against these? 
+ - What is the proposed solution? Is it technically sound (e.g., if there is any proof, is it correct)?
+
+- Strength: one to five bullet points summarizing what you like about the paper, e.g., the paper is well written and well structured, the problem is important, the solution is effective, etc.
+
+- Weaknesses: one to five bullet points summarizing what you don't like about the paper, e.g., the paper is not well written or not well structured, the problem is contrived, existing solutions/the solution is effective, etc.
+
+- Detailed comments: detailed questions for authors to respond, and more constructive suggestions.
+
 #### Review length
 A good review should cover at least the following aspects of the paper in detail: problem focus and motivation, technical contributions, experimental evaluation, related work, and overall presentation. Please elaborate with regards to strong and weak points on all these fronts with detailed comments. We expect an ideal review to span at least 4-5 paragraphs, discussing these aspects. A very short review is very likely a bad review. Recall, that one of the purposes of your review is to give authors constructive feedback, and a short review does not accomplish that.
 
