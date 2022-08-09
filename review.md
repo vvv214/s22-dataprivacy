@@ -16,9 +16,9 @@ Papers that have not gone through peer-review and are not formally published can
 #### Review template
 Please follow this structure:
 - Summary
- - What is the problem setting? Is the problem setting realistic, or contrived (the authors creating a problem)? 
- - Given the problem, what would be the natural solution? What are existing solutions from the literatur? Have the authors considered and compared against these? 
- - What is the proposed solution? Is it technically sound (e.g., if there is any proof, is it correct)?
+  - What is the problem setting? Is the problem setting realistic, or contrived (the authors creating a problem)? 
+  - Given the problem, what would be the natural solution? What are existing solutions from the literatur? Have the authors considered and compared against these? 
+  - What is the proposed solution? Is it technically sound (e.g., if there is any proof, is it correct)?
 
 - Strength: one to five bullet points summarizing what you like about the paper, e.g., the paper is well written and well structured, the problem is important, the solution is effective, etc.
 
